@@ -1,0 +1,30 @@
+.jumbotron.jumbotron-fluid{
+    background: white;
+    height: 200px;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+.container{
+    background: white; 
+}
+.display-4{
+    text-align: center; 
+    background: white; 
+}
+
+.wrapper{
+    width: 1150px; 
+    height: 900px; 
+}
+
+.countDown{
+    float: right; 
+    font-size: 25px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mainArea{
+    position: relative;
+    left: 150px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px; 
+}
